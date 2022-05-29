@@ -1,0 +1,33 @@
+.cover {
+    visibility: hidden;
+}
+
+.ofertas {
+    text-align: center;
+    margin: 30px;
+
+    #agotado:hover .cover {
+        background: red;
+        visibility: visible;
+    }
+}
+
+.carousel-inner {
+    max-height: 48rem;
+    display: flex;
+}
+
+.send-btn {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.btn {
+    background-color: #d6a2e3;
+    border-color: #89678f;
+}
+
+.container-buttons {
+    align-items: center;
+}

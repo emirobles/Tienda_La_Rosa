@@ -1,0 +1,45 @@
+#navbarSupportedContent a:hover {
+    color: white;
+    background-color: #f28aa5;
+    border-radius: 10px;
+}
+
+#menu a {
+    font-size: 20px;
+    color: #d17386;
+}
+
+.nav__bg {
+    background-color: bisque;
+}
+
+.brand_title {
+    margin-right: 100px;
+    margin-left: 30px;
+
+}
+
+.bg_title {
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.descrip {
+    font-weight: bold;
+    font-family: "Fira Sans Condensed" bold;
+
+}
+
+.logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-brand {
+    display: flexbox;
+    justify-content: space-between;
+    padding: 20px;
+    color: black;
+    letter-spacing: 3px;
+}
